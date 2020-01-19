@@ -1,1 +1,3 @@
-print("Hello World")
+print("Changes this string")
+print('This is another example')
+
